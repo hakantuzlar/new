@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "226872864495",
+    "firebase_url": "https://wpnbshat.firebaseio.com",
+    "project_id": "wpnbshat",
+    "storage_bucket": "wpnbshat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:226872864495:android:90d81d1f90138c8e",
+        "android_client_info": {
+          "package_name": "com.bishat.wpnbsht"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "226872864495-mndg0j71nuaeg9nv1lr5dsjlcctp6j76.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bishat.wpnbsht",
+            "certificate_hash": "3501aae812641706be751ab2d482d5c79984b1e3"
+          }
+        },
+        {
+          "client_id": "226872864495-kemaplvcfdj0omkhbf62pjh46m5lr8af.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZ79zLnKEh1EI5xL4Ygla6F6QzSeOaZkk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "226872864495-kemaplvcfdj0omkhbf62pjh46m5lr8af.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
